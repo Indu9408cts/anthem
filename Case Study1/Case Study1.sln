@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{D183A3D8-5FD8-494B-B014-37F57B35E655}") = "Case Study1", "Case Study1\Case Study1.dtproj", "{AD4EF1A6-9C18-4884-82CC-4CC9D39D6EAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD4EF1A6-9C18-4884-82CC-4CC9D39D6EAF}.Development|Default.ActiveCfg = Development
+		{AD4EF1A6-9C18-4884-82CC-4CC9D39D6EAF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
